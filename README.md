@@ -3,7 +3,6 @@
 Release Radar is a Django/React hybrid based website that allows the user see what games are releasing in respect to season
 and year. The results can be narrowed down and sorted many which ways one which includes a personally impolemented hype system.
 
-![alt text](game.png)
 
 ## Key Features
 
